@@ -6,6 +6,7 @@
 // @author       lirrnaiad
 // @match        https://atcoder.jp/contests/*/tasks/*
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function () {
