@@ -53,9 +53,7 @@ Go to an AtCoder problem page in Japanese.
 
 Example:
 
-```text
-https://atcoder.jp/contests/abc310/tasks/abc310_a
-```
+https://atcoder.jp/contests/abc310/tasks/abc310_a?lang=ja
 
 ### 4. Use JP Immersion Mode
 
